@@ -10,5 +10,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Django and tech related stuff.
 - 🌐 Visit my <a href = "https://shukla123.github.io/info/">porfolio</a> website for complete background and contact.
 - 🌐 Visit my <a href = "http://codewarriors.pythonanywhere.com/">blog</a>.
-- 😄 Pronouns: ...
+<!--- 😄 Pronouns: ... -->
 - ⚡ My Github Status
