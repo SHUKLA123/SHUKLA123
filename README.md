@@ -1,4 +1,4 @@
-### Hi there, I'm Niranjan Shukla!. Driven Software Developer with 2 internships in my academic career. I am an enthusiast in solving real-life problems with limited resources. A clear understanding of Data Structure and web technologies like HTML, CSS, JavaScript, Python (Django).👋👋👋
+### Hi there, I'm Niranjan Shukla!. Driven Software Developer with 3 internships in my academic career. I am an enthusiast in solving real-life problems with limited resources. A clear understanding of Data Structure and web technologies like HTML, CSS, JavaScript, Python (Django).👋👋👋
 
 - 🔭 I’m currently working on Django, Bootstrap, JQuery, AJAX and Data Structures.
 - 🌱 I’m currently learning Django Rest Framework.
