@@ -17,10 +17,9 @@ My Projects :
   <li><a href = "http://medicinecom.pythonanywhere.com/">Medicine Selling Online</a></li>
   <li><a href = "https://shukla123.github.io/info/">Portfolio</a></li>
   <li><a href = "https://github.com/SHUKLA123?tab=repositories">Other Projects</a></li>
-  <li>![](https://komarev.com/ghpvc/?username=SHUKLA123&style=flat-square)</li>
+<!--   <li><a href = "![](https://komarev.com/ghpvc/?username=SHUKLA123&style=flat-square)"></li> -->
 </ul>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - ⚡ My Github Status
 
